@@ -1,0 +1,24 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /login/
+Disallow: /register/
+Disallow: /cart/
+Disallow: /checkout/
+Allow: /blog/
+Allow: /products/
+Allow: /about-us/
+Allow: /contact/
+
+# Sitemap location
+Sitemap: https://www.tusitio.com/sitemap.xml
+
+#Explicación:
+#User-agent: *: Aplica estas reglas a todos los motores de búsqueda.
+#Disallow: Evita que los motores de búsqueda indexen páginas que no son relevantes para los usuarios, como las páginas de administración, login, registro, carrito y checkout.
+#Allow: Permite que los motores de búsqueda indexen páginas importantes como el blog, productos, sobre nosotros y contacto.
+#Sitemap: Indica la ubicación del archivo sitemap para ayudar a los motores de búsqueda a encontrar todas las páginas importantes de tu sitio.
+#Buenas prácticas:
+#No bloquees archivos CSS y JavaScript: Asegúrate de que los motores de búsqueda puedan acceder a estos archivos para entender mejor la estructura y el diseño de tu sitio1.
+#Evita conflictos: Asegúrate de que no haya directivas contradictorias en tu archivo robots.txt2.
+#Revisa errores: Verifica que no haya errores tipográficos o de capitalización1.
+#¿Hay algo más específico que te gustaría incluir en tu archivo robots.txt?
