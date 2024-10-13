@@ -85,7 +85,7 @@
     });
 
 
-    // Testimonials carousel
+    // Testimonioss carousel
     $(".testimonial-carousel").owlCarousel({
         autoplay: true,
         smartSpeed: 1000,

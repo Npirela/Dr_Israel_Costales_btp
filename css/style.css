@@ -4,7 +4,7 @@
     --secondary: #E93C05;
     --tertiary: #555555;
     --light: #DFE4FD;
-    --dark: #011A41;
+    --dark: #031c46;
 }
 
 .back-to-top {
@@ -99,7 +99,7 @@ h6,
 
 .top-bar {
     height: 45px;
-    border-bottom: 1px solid rgba(53, 94, 252, .07);
+    border-bottom: 1px solid rgba(37, 79, 245, 0.07);
 }
 
 .navbar .dropdown-toggle::after {
@@ -415,7 +415,7 @@ h6,
 }
 
 
-/*** Testimonial ***/
+/*** Testimonios ***/
 .testimonial-item {
     position: relative;
     text-align: center;
@@ -529,7 +529,7 @@ h6,
 
 .copyright {
     color: var(--light);
-    background: #000B1C;
+    background: #000000;
 }
 
 .copyright a {
