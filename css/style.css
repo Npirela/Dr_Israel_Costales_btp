@@ -15,6 +15,14 @@
     z-index: 99;
 }
 
+.whatsapp-top-button{
+    position: fixed;
+    display: none;
+    right: 30px;
+    bottom: 90px;
+    z-index: 100;
+}
+
 h1,
 .h1,
 h2,
