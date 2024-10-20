@@ -4,9 +4,9 @@ https://www.facebook.com/people/Dr-Israel-Costales-Cirujano-Ur%C3%B3logo/6156568
 https://instagram.com/p/DATrxx5PIPT/?igsh=dnd3bjhid3Z5bzFn&img_index=1
 
 
-turquesa claro 00e7b7
-celeste oscuro 00b8f5
-celeste claro 00ccdb
+turquesa claro 00e7b7	rgb(0, 231, 183)
+celeste oscuro 00b8f5   rgb(0, 184, 245)
+celeste claro 00ccdb    rgb(0, 203, 221)
 
 
 Av. Mariana de Jesús OE7-02 y Nuño Valderrama, Edificio Citimed piso 5 consultorio 543, Quito 170521, Ecuador
