@@ -1,10 +1,10 @@
 /********** Template CSS **********/
 :root {
-    --primary: #00ccdb;
+    --primary: #0ec4d1;
     --secondary: #00e7b7;
     --tertiary: #555555;
     --light: #DFE4FD;
-    --dark: #00b8f5;
+    --dark: #0195c7;
 }
 
 .back-to-top {
@@ -230,7 +230,7 @@ h6,
 
 /*** Facts ***/
 .facts {
-    background: linear-gradient(rgba(0, 184, 245, .95), rgba(0, 203, 221, .95)), url(../img/bg.png);
+    background: linear-gradient(rgba(0, 122, 163, 0.95), rgba(0, 203, 221, .95)), url(../img/bg.png);
 }
 
 
@@ -246,7 +246,7 @@ h6,
     height: 50%;
     top: 0;
     left: 0;
-    background: linear-gradient(rgba(0, 184, 245, .95), rgba(0, 203, 221, .95)), url(../img/bg.png);
+    background: linear-gradient(rgba(0, 122, 163, 0.95), rgba(0, 203, 221, .95)), url(../img/bg.png);
     z-index: -1;
 }
 
