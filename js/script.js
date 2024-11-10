@@ -1,7 +1,7 @@
 // Script para cambiar el contador de pacientes de manera diaria por 5 pacientes que se atienden en la consulta 
 // Cantidad inicial
-let CantidadPacientesContador = 396; // Cambia este valor a tu cantidad específica
-let incremento = 5;
+let CantidadPacientesContador = 4023; // Cambia este valor a tu cantidad específica
+let incremento = 2;
 
 // Obtener datos del almacenamiento local
 let cantidad = localStorage.getItem('cantidad') || CantidadPacientesContador;
