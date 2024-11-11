@@ -1,10 +1,11 @@
 /********** Template CSS **********/
 :root {
-    --primary: #0ca1ac;
-    --secondary: #00e7b7;
+    --primary: #4532b7;
+    --secondary: #00a99d;
     --tertiary: #555555;
-    --light: #DFE4FD;
-    --dark: #0195c7;
+    --light: #e6e6e6;
+    --dark: #271087;
+
 }
 
 .back-to-top {
@@ -230,7 +231,7 @@ h6,
 
 /*** Facts ***/
 .facts {
-    background: linear-gradient(rgba(0, 122, 163, 0.95), rgba(0, 203, 221, .95)), url(../img/bg.png);
+    background: linear-gradient(rgba(0, 169, 157, 0.95), rgba(230, 230, 230, .95)), url(../img/bg.png);
 }
 
 
@@ -246,7 +247,7 @@ h6,
     height: 50%;
     top: 0;
     left: 0;
-    background: linear-gradient(rgba(0, 122, 163, 0.95), rgba(0, 203, 221, .95)), url(../img/bg.png);
+    background: linear-gradient(rgba(0, 169, 157, 0.95), rgba(230, 230, 230, .95)), url(../img/bg.png);
     z-index: -1;
 }
 
@@ -546,4 +547,21 @@ h6,
 
 .copyright a:hover {
     color: var(--primary);
+}
+
+/*Added css */
+
+
+.btn-dark_purple{
+    background-color: var(--dark_purple);
+    color: var(--light_gray);
+}
+
+.btn-light_purple{
+    background-color: var(--light_purple);
+    color: var(--dark_purple);
+}
+
+.text-dark_purple{
+    color: var(--dark) !important;
 }
