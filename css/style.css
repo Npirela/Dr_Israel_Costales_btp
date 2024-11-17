@@ -552,14 +552,14 @@ h6,
 /*Added css */
 
 
-.btn-dark_purple{
-    background-color: var(--dark_purple);
-    color: var(--light_gray);
+.btn-dark_purple, .btn-outline-primary:hover{
+    background-color: var(--dark);
+    color: var(--light);
 }
 
 .btn-light_purple{
-    background-color: var(--light_purple);
-    color: var(--dark_purple);
+    background-color: var(--light);
+    color: var(--dark);
 }
 
 .text-dark_purple{
