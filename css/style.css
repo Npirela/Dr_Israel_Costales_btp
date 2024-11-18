@@ -7,6 +7,19 @@
     --dark: #271087;
 
 }
+/******* Tipografia Corporativa **********/
+@font-face {
+    font-family: 'Myriad-Variable-Concept';
+    src: url('../fonts/Myriad-Variable-Concept.woff') format('woff');
+    src: url('../fonts/Myriad-Variable-Concept.eot') format('embedded-opentype');
+    src: url('../fonts/Myriad-Variable-Concept.ttf') format('truetype');
+    
+  }
+ /******* Tipografia Secundaria **********/ 
+@font-face {
+    font-family: "Minion-Variable-Concept.otf";
+    src: url('../fonts/Minion-Variable-Concept.otf');
+  }
 
 .back-to-top {
     position: fixed;
