@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Biopsia de Próstata</title>
+</head>
+<body>
+    <h1>Biopsia de Próstata</h1>
+    <p>La biopsia de próstata es un procedimiento médico que implica la extracción de pequeñas muestras de tejido prostático para su examen microscópico, con el fin de detectar la presencia de células cancerosas u otras anomalías. Este procedimiento es generalmente recomendado cuando existen signos sospechosos como niveles elevados de antígeno prostático específico (PSA) en sangre o resultados anormales en un examen digital rectal (DRE).</p>
+
+    <h3>Métodos de Biopsia:</h3>
+    <ul>
+        <li><strong>Transrectal:</strong> Es el método más común y se realiza a través del recto. Se utiliza una sonda de ultrasonido para guiar la aguja que extrae las muestras de tejido.</li>
+        <li><strong>Transperineal:</strong> Se realiza a través del perineo (la piel entre el ano y el escroto). Este método puede disminuir el riesgo de infección.</li>
+        <li><strong>Transuretral:</strong> Aunque menos común, se realiza a través de la uretra.</li>
+    </ul>
+
+    <h3>Indicaciones:</h3>
+    <ul>
+        <li>Niveles elevados de PSA.</li>
+        <li>Resultados anormales en el tacto rectal.</li>
+        <li>Hallazgos sospechosos en una resonancia magnética de la próstata.</li>
+    </ul>
+
+    <h3>Riesgos:</h3>
+    <ul>
+        <li>Sangrado en el sitio de la biopsia.</li>
+        <li>Sangre en el semen o en la orina.</li>
+        <li>Dificultad para orinar.</li>
+    </ul>
+
+    <h3>Resultados:</h3>
+    <p>Las muestras de tejido se examinan en el laboratorio para detectar anomalías celulares que puedan indicar la presencia de cáncer de próstata. Si se encuentra cáncer, se evalúa para determinar el tratamiento adecuado.</p>
+
+    <h3>Fuentes utilizadas:</h3>
+    <ul>
+        <li>Mayo Clinic. (2022). Prostate biopsy. Recuperado de <a href="https://www.mayoclinic.org/tests-procedures/prostate-biopsy/about/pac-20384734">https://www.mayoclinic.org/tests-procedures/prostate-biopsy/about/pac-20384734</a></li>
+        <li>MedlinePlus. (2022). Prostate biopsy. Recuperado de <a href="https://medlineplus.gov/prostatebiopsy.html">https://medlineplus.gov/prostatebiopsy.html</a></li>
+        <li>Elsevier. (2022). Prostate biopsy. Recuperado de <a href="https://www.elsevier.es/en-revista">https://www.elsevier.es/en-revista</a></li>
+        <li>Tua Saúde. (2024). Biopsia de próstata: qué es, cómo se hace y riesgos. Recuperado de <a href="https://www.tuasaude.com/es/biopsia-de-prostata/">https://www.tuasaude.com/es/biopsia-de-prostata/</a></li>
+    </ul>
+</body>
+</html>

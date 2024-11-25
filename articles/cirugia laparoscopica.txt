@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cirugía Laparoscópica y Mínima Invasión</title>
+</head>
+<body>
+    <h1>Cirugía Laparoscópica y Mínima Invasión</h1>
+    <p>La cirugía laparoscópica, también conocida como cirugía mínima invasión, es un método quirúrgico que utiliza pequeñas incisiones para realizar procedimientos internos. Este enfoque permite a los cirujanos operar con mayor precisión y control, reduciendo el daño a los tejidos circundantes.</p>
+
+    <h3>Método de Realización:</h3>
+    <ul>
+        <li><strong>Preparación:</strong> El paciente puede recibir anestesia general o local.</li>
+        <li><strong>Procedimiento:</strong> Se insertan instrumentos largos y angostos, como un laparoscopio (una cámara pequeña) y otros instrumentos quirúrgicos, a través de pequeñas incisiones.</li>
+        <li><strong>Resultados:</strong> La cirugía laparoscópica generalmente se asocia con menos dolor postoperatorio, una hospitalización más corta y una recuperación más rápida en comparación con la cirugía abierta.</li>
+    </ul>
+
+    <h3>Indicaciones:</h3>
+    <ul>
+        <li>Cirugía de riñón (nefrectomía).</li>
+        <li>Cirugía de próstata (prostatectomía).</li>
+        <li>Cirugía de vesícula (colecistectomía).</li>
+        <li>Cirugía de columna vertebral.</li>
+        <li>Cirugía de hernia.</li>
+    </ul>
+
+    <h3>Riesgos:</h3>
+    <ul>
+        <li>Infección.</li>
+        <li>Sangrado.</li>
+        <li>Complicaciones durante la conversión de una cirugía laparoscópica a una abierta.</li>
+    </ul>
+
+    <h3>Resultados Anormales:</h3>
+    <ul>
+        <li>La conversión a cirugía abierta puede ser necesaria en casos de complicaciones importantes.</li>
+    </ul>
+
+    <h3>Fuentes utilizadas:</h3>
+    <ul>
+        <li>León, R., & Moreno, J. (2018). Mínima invasión en urología: cirugía laparoscópica y percutánea. <i>Acta Médica Grupo Ángeles</i>, 16(2), 1-10. Recuperado de <a href="https://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S1870-72032018000200139">https://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S1870-72032018000200139</a></li>
+        <li>Hernández-Vaquero, D., Fernández-Fairen, M., Torres-Pérez, A., & Santamaría, A. (2012). Cirugía de mínima invasión frente a cirugía convencional: Una aproximación desde la evidencia científica. <i>Revista Española de Cirugía Ortopédica y Traumatología</i>, 56(6), 444-458. Recuperado de <a href="https://www.elsevier.es/es-revista-revista-espanola-cirugia-ortopedica-traumatologia-129-articulo-cirugia-minima-invasion-frente-cirugia-S1888441512001075">https://www.elsevier.es/es-revista-revista-espanola-cirugia-ortopedica-traumatologia-129-articulo-cirugia-minima-invasion-frente-cirugia-S1888441512001075</a></li>
+        <li>Guerrero-Aguirre, J., Ortiz-Barrón, S., Castillo-Arriaga, R., & Salazar-Lozano, C. (2014). La cirugía de invasión mínima: antecedente histórico; presente y perspectivas futuras en el ISSSTE. <i>Revista de Especialidades Médico-Quirúrgicas</i>, 19(3), 375-386. Recuperado de <a href="https://www.redalyc.org/pdf/473/47332498019.pdf">https://www.redalyc.org/pdf/473/47332498019.pdf</a></li>
+    </ul>
+</body>
+</html>

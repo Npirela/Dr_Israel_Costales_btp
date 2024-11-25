@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cirugía de Cálculos de la Vía Urinaria</title>
+</head>
+<body>
+    <h1>Cirugía de Cálculos de la Vía Urinaria</h1>
+    <p>La cirugía de cálculos de la vía urinaria es un procedimiento utilizado para eliminar cálculos (piedras) que se forman en los riñones, la vejiga o el tracto urinario. Estas piedras pueden causar dolor intenso, infecciones urinarias y obstrucciones que afectan la función renal.</p>
+
+    <h3>Métodos de Realización:</h3>
+    <ul>
+        <li><strong>Preparación:</strong> El paciente puede recibir anestesia general o local.</li>
+        <li><strong>Procedimiento:</strong> Se utilizan técnicas endoscópicas, como la ureteroscopia y la litotricia extracorpórea por ondas de choque, para fragmentar y eliminar las piedras.</li>
+        <li><strong>Resultados:</strong> La cirugía generalmente se asocia con una rápida recuperación, menos dolor postoperatorio y una hospitalización corta.</li>
+    </ul>
+
+    <h3>Indicaciones:</h3>
+    <ul>
+        <li>Cálculos mayores a 6 mm que no pueden ser expulsados espontáneamente.</li>
+        <li>Cálculos que causan infecciones recurrentes o dolor severo.</li>
+        <li>Cálculos que afectan la función renal.</li>
+    </ul>
+
+    <h3>Riesgos:</h3>
+    <ul>
+        <li>Infección.</li>
+        <li>Sangrado.</li>
+        <li>Daño a los tejidos urinarios.</li>
+    </ul>
+
+    <h3>Resultados Anormales:</h3>
+    <ul>
+        <li>La conversión a cirugía abierta puede ser necesaria en casos de complicaciones importantes.</li>
+    </ul>
+
+    <h3>Fuentes utilizadas:</h3>
+    <ul>
+        <li>Mayo Clinic. (s.f.). Cirugía mínimamente invasiva. Recuperado de <a href="https://www.mayoclinic.org/es/tests-procedures/minimally-invasive-surgery/about/pac-20384771">https://www.mayoclinic.org/es/tests-procedures/minimally-invasive-surgery/about/pac-20384771</a></li>
+        <li>León, R., & Moreno, J. (2018). Mínima invasión en urología: cirugía laparoscópica y percutánea. <i>Acta Médica Grupo Ángeles</i>, 16(2), 1-10. Recuperado de <a href="https://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S1870-72032018000200139">https://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S1870-72032018000200139</a></li>
+        <li>Hernández-Vaquero, D., Fernández-Fairen, M., Torres-Pérez, A., & Santamaría, A. (2012). Cirugía de mínima invasión frente a cirugía convencional: Una aproximación desde la evidencia científica. <i>Revista Española de Cirugía Ortopédica y Traumatología</i>, 56(6), 444-458. Recuperado de <a href="https://www.elsevier.es/es-revista-revista-espanola-cirugia-ortopedica-traumatologia-129-articulo-cirugia-minima-invasion-frente-cirugia-S1888441512001075">https://www.elsevier.es/es-revista-revista-espanola-cirugia-ortopedica-traumatologia-129-articulo-cirugia-minima-invasion-frente-cirugia-S1888441512001075</a></li>
+        <li>Guerrero-Aguirre, J., Ortiz-Barrón, S., Castillo-Arriaga, R., & Salazar-Lozano, C. (2014). La cirugía de invasión mínima: antecedente histórico; presente y perspectivas futuras en el ISSSTE. <i>Revista de Especialidades Médico-Quirúrgicas</i>, 19(3), 375-386. Recuperado de <a href="https://www.redalyc.org/pdf/473/47332498019.pdf">https://www.redalyc.org/pdf/473/47332498019.pdf</a></li>
+    </ul>
+</body>
+</html>

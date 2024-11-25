@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Uroflujometría</title>
+</head>
+<body>
+    <h1>Uroflujometría</h1>
+    <p>La uroflujometría es una prueba no invasiva que mide el volumen de orina eliminada, la velocidad a la cual se elimina y el tiempo que toma la eliminación. Esta prueba se utiliza para evaluar el funcionamiento de las vías urinarias y detectar posibles obstrucciones o problemas en la micción.</p>
+
+    <h3>Método de Realización:</h3>
+    <ul>
+        <li><strong>Preparación:</strong> El paciente debe tener la vejiga llena, lo que se logra evitando orinar durante al menos 2 horas antes del examen y tomando líquidos adicionales.</li>
+        <li><strong>Procedimiento:</strong> El paciente orina en un dispositivo especial equipado con una máquina de medición. La máquina registra el flujo de orina y genera un informe para el proveedor de atención médica.</li>
+        <li><strong>Resultados:</strong> Los valores normales varían según la edad y el sexo. En los hombres, el flujo de orina disminuye con la edad, mientras que en las mujeres los cambios son menores.</li>
+    </ul>
+
+    <h3>Indicaciones:</h3>
+    <ul>
+        <li>Pacientes que presentan problemas para orinar.</li>
+        <li>Evaluación de la función vesical y uretral.</li>
+        <li>Diagnóstico de posibles obstrucciones en el tracto urinario.</li>
+    </ul>
+
+    <h3>Riesgos:</h3>
+    <ul>
+        <li>No existen riesgos significativos con este examen.</li>
+    </ul>
+
+    <h3>Resultados Anormales:</h3>
+    <ul>
+        <li>Un flujo de orina disminuido puede indicar una obstrucción o debilidad en los músculos urinarios.</li>
+        <li>La cantidad de orina que permanece en la vejiga después de orinar puede medirse con ultrasonido.</li>
+    </ul>
+
+    <h3>Fuentes utilizadas:</h3>
+    <ul>
+        <li>Brucker BM, Nitti VW. Urodynamic and video-urodynamic evaluation of the lower urinary tract. In: Partin AW, Domochowski RR, Kavoussi LR, Peters CA, eds. Campbell-Walsh-Wein Urology. 12th ed. Philadelphia, PA: Elsevier; 2021:chap 114.</li>
+        <li>Capogrosso P, Salonia A, Montorsi F. Evaluation and nonsurgical management of benign prostatic hypoplasia. In: Partin AW, Domochowski RR, Kavoussi LR, Peters CA, eds. Campbell-Walsh-Wein Urology. 12th ed. Philadelphia, PA: Elsevier; 2021:chap 145.</li>
+        <li>Pessoa R, Kim FJ. Urodynamics and voiding dysfunction. In: Harken AH, Moore EE, eds. Abernathy’s Surgical Secrets. 7th ed. Philadelphia, PA: Elsevier; 2018:chap 103.</li>
+    </ul>
+</body>
+</html>

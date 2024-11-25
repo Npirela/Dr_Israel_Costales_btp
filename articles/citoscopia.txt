@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cistoscopia</title>
+</head>
+<body>
+    <h1>Cistoscopia</h1>
+    <p>La cistoscopia es un procedimiento médico que permite al médico examinar el interior de la vejiga y la uretra utilizando un tubo delgado y flexible llamado cistoscopio. Este procedimiento se utiliza para diagnosticar, controlar y tratar diversas afecciones del tracto urinario.</p>
+
+    <h3>Método de Realización:</h3>
+    <ul>
+        <li><strong>Preparación:</strong> El paciente puede recibir anestesia local o sedación, dependiendo del caso.</li>
+        <li><strong>Procedimiento:</strong> El cistoscopio se inserta a través de la uretra hasta llegar a la vejiga. Una vez dentro, el médico puede observar el revestimiento interno de la vejiga y la uretra.</li>
+        <li><strong>Resultados:</strong> La cistoscopia puede ayudar a identificar problemas como cálculos en la vejiga, inflamación, infecciones recurrentes, sangre en la orina y tumores.</li>
+    </ul>
+
+    <h3>Indicaciones:</h3>
+    <ul>
+        <li>Investigar la causa de sangre en la orina (hematuria).</li>
+        <li>Diagnosticar y tratar infecciones urinarias recurrentes.</li>
+        <li>Evaluar el agrandamiento de la próstata.</li>
+        <li>Diagnosticar y tratar cálculos en la vejiga.</li>
+        <li>Examinar posibles estrechamientos o fístulas en la uretra.</li>
+    </ul>
+
+    <h3>Riesgos:</h3>
+    <ul>
+        <li>Infección.</li>
+        <li>Sangrado.</li>
+        <li>Dolor o malestar durante o después del procedimiento.</li>
+    </ul>
+
+    <h3>Resultados Anormales:</h3>
+    <ul>
+        <li>La presencia de cálculos, tumores o inflamación puede ser identificada durante la cistoscopia.</li>
+        <li>Se pueden tomar muestras de tejido (biopsias) para análisis adicionales.</li>
+    </ul>
+
+    <h3>Fuentes utilizadas:</h3>
+    <ul>
+        <li>Mayo Clinic. (2022). Cistoscopia. Recuperado de <a href="https://www.mayoclinic.org/es/tests-procedures/cystoscopy/about/pac-20393694">https://www.mayoclinic.org/es/tests-procedures/cystoscopy/about/pac-20393694</a></li>
+        <li>Instituto de Urología Serrate & Ribal. (2020). ¿Cuándo se realiza una cistoscopia? Recuperado de <a href="https://www.urologiaserrateribal.com/publicacion/cuando-se-realiza-una-cistoscopia/">https://www.urologiaserrateribal.com/publicacion/cuando-se-realiza-una-cistoscopia/</a></li>
+        <li>American Cancer Society. (2022). Cistoscopia. Recuperado de <a href="https://www.cancer.org/es/cancer/diagnostico-y-etapa-del-cancer/pruebas/endoscopia/cistoscopia.html">https://www.cancer.org/es/cancer/diagnostico-y-etapa-del-cancer/pruebas/endoscopia/cistoscopia.html</a></li>
+    </ul>
+</body>
+</html>
