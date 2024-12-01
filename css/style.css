@@ -1,10 +1,10 @@
 /********** Template CSS **********/
 :root {
-    --primary: #4532b7;
-    --secondary: #00a99d;
-    --tertiary: #555555;
+    --primary: #e2b700;
+    --secondary: #9ed30d;
+    --tertiary: #1c90d1;
     --light: #e6e6e6;
-    --dark: #271087;
+    --dark: #084a99;
 
 }
 /******* Tipografia Corporativa **********/
@@ -244,7 +244,7 @@ h6,
 
 /*** Facts ***/
 .facts {
-    background: linear-gradient(rgba(0, 169, 157, 0.95), rgba(230, 230, 230, .95)), url(../img/bg.png);
+    background: linear-gradient(rgba(28, 166, 209, 0.95), rgba(230, 230, 230, .95)), url(../img/bg.png);
 }
 
 
@@ -260,7 +260,7 @@ h6,
     height: 50%;
     top: 0;
     left: 0;
-    background: linear-gradient(rgba(0, 169, 157, 0.95), rgba(230, 230, 230, .95)), url(../img/bg.png);
+    background: linear-gradient(rgba(28, 166, 209, 0.95), rgba(230, 230, 230, .95)), url(../img/bg.png);
     z-index: -1;
 }
 
