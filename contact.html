@@ -77,7 +77,7 @@
                         <div class="dropdown-menu border-light m-0">
                             <a href="articles.html" class="dropdown-item">Articulos</a>
                             <a href="feature.html" class="dropdown-item">Razones Para elegirme</a>
-                            <a href="team.html" class="dropdown-item">Miembros del Equipo</a>
+                            
                             <a href="testimonial.html" class="dropdown-item">Testimonios</a>
                             <a href="interviews.html" class="dropdown-item">Entrevistas</a>
                         </div>
@@ -123,39 +123,46 @@
             <div class="row g-5">
                 <div class="col-lg-6 wow fadeIn" data-wow-delay="0.1s">
                     <p class="d-inline-block border rounded text-info fw-semi-bold py-1 px-3">Contacto</p>
-                    <h1 class="display-5 mb-4">If You Have Any Query, Please Contacto Us</h1>
-                    <p class="mb-4">The contact form is currently inactive. Get a functional and working contact form
-                        with Ajax & PHP in a few minutes. Just copy and paste the files, add a little code and you're
-                        done. <a /contact-form">Download Now</a>.</p>
+                    <h1 class="display-5 mb-4">Formulario de Contacto</h1>
+                    <p class="mb-4">Si tienes Alguna consulta y quieres que te contactemos, deja tus datos en el formulario, y te escribiremos</p>
                     <form>
                         <div class="row g-3">
                             <div class="col-md-6">
                                 <div class="form-floating">
                                     <input type="text" class="form-control" id="name" placeholder="Your Name">
-                                    <label for="name">Your Name</label>
+                                    <label for="name">Nombre</label>
+                                    <div class="invalid-feedback" id="name-error">Por favor, ingrese su nombre.</div>
                                 </div>
                             </div>
                             <div class="col-md-6">
                                 <div class="form-floating">
                                     <input type="email" class="form-control" id="email" placeholder="Your Email">
-                                    <label for="email">Your Email</label>
+                                    <label for="email">Email</label>
+                                    <div class="invalid-feedback" id="email-error">Por favor, ingrese un correo electrónico válido.</div>
                                 </div>
                             </div>
-                            <div class="col-12">
+                            <div class="col-6">
+                                <div class="form-floating">
+                                    <input type="text" class="form-control" id="mobile" placeholder="Your Mobile">
+                                    <label for="mobile">Telefono de Contacto</label>
+                                    <div class="invalid-feedback" id="mobile-error">Por favor, ingrese un número de teléfono válido con el código de país (ejemplo: +34XXXXXXXX).</div>
+                                </div>
+                            </div>
+                            <div class="col-6">
                                 <div class="form-floating">
                                     <input type="text" class="form-control" id="subject" placeholder="Subject">
-                                    <label for="subject">Subject</label>
+                                    <label for="subject">Asunto</label>
                                 </div>
                             </div>
                             <div class="col-12">
                                 <div class="form-floating">
-                                    <textarea class="form-control" placeholder="Leave a message here" id="message"
-                                        style="height: 100px"></textarea>
-                                    <label for="message">Message</label>
+                                    <textarea class="form-control" placeholder="Leave a message here" id="message" style="height: 100px"></textarea>
+                                    <label for="message">Mensaje</label>
+                                    <div class="invalid-feedback" id="message-error">Por favor, ingrese un mensaje.</div>
                                 </div>
                             </div>
                             <div class="col-12">
-                                <button class="btn btn-dark py-3 px-4 w-50" type="submit"><i class="bi bi-send text-info me-2"></i>Enviar</button>
+                                <button class="btn btn-dark w-100 py-3" type="button" onclick="sendToWhatsapp()"><i class="bi bi-send text-info me-2"></i>Enviar ahora</button>
                             </div>
                         <div class="row g-3">
                             <div class="col-sm">
@@ -270,7 +277,7 @@ Designed By <a class="border-bottom" ">HTML Codex</a> Redesigned By <a href="htt
     <script src="lib/waypoints/waypoints.min.js"></script>
     <script src="lib/owlcarousel/owl.carousel.min.js"></script>
     <script src="lib/counterup/counterup.min.js"></script>
-
+    <script src="js/wp_script_contact.js"></script>
     <!-- Template Javascript -->
     <script src="js/main.js"></script>
 </body>
