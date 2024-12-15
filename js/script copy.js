@@ -3,19 +3,12 @@
 let CantidadPacientesContador = 10000; // Cambia este valor a tu cantidad específica
 let incremento = 3;
 
-// Fecha específica de inicio
-let fechaInicio = new Date('2024-12-15T00:00:00'); // Fecha de inicio: 15-12-2024
-
 // Obtener datos del almacenamiento local
-let cantidad = localStorage.getItem('cantidad');
+let cantidad = localStorage.getItem('cantidad') || CantidadPacientesContador;
 let fechaUltimoAumento = localStorage.getItem('fechaUltimoAumento');
 
-// Si no hay cantidad almacenada, establecer cantidad inicial
-if (cantidad === null) {
-    cantidad = CantidadPacientesContador;
-} else {
-    cantidad = Number(cantidad); // Convertir a número
-}
+// Convertir a número
+cantidad = Number(cantidad);
 
 // Verificar si ha pasado un día desde el último aumento
 if (fechaUltimoAumento) {
@@ -30,13 +23,10 @@ if (fechaUltimoAumento) {
         localStorage.setItem('fechaUltimoAumento', fechaActual); // Actualizar la fecha
     }
 } else {
-    // Si no hay fecha, establecer la fecha de inicio específica
-    localStorage.setItem('fechaUltimoAumento', fechaInicio);
+    // Si no hay fecha, establecer la fecha de hoy
+    localStorage.setItem('fechaUltimoAumento', new Date());
     localStorage.setItem('cantidad', cantidad); // Guardar cantidad inicial
 }
 
 // Mostrar la cantidad actual
-document.addEventListener('DOMContentLoaded', (event) => {
-    document.getElementById('cantidad').textContent = `${cantidad}`;
-});
-
+document.getElementById('cantidad').textContent = `${cantidad}`;
