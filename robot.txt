@@ -4,10 +4,12 @@ Disallow: /login/
 Disallow: /register/
 Disallow: /cart/
 Disallow: /checkout/
-Allow: /blog/
-Allow: /products/
-Allow: /about-us/
-Allow: /contact/
+Disallow: /testimonial.html/
+Allow: /index.html/
+Allow: /articles.html/
+Allow: /about.html/
+Allow: /contact.html/
+Allow: /service.html/
 
 # Sitemap location
 Sitemap: https://www.tusitio.com/sitemap.xml
