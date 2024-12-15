@@ -17,10 +17,10 @@
   }
  /******* Tipografia Secundaria **********/ 
 @font-face {
-    font-family: "Minion-Variable-Concept.otf";
+    font-family: 'Minion-Variable-Concept';
     src: url('../fonts/Minion-Variable-Concept.otf');
   }
-
+  
 .back-to-top {
     position: fixed;
     display: none;
