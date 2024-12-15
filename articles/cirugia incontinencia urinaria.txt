@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cirugía de Incontinencia Urinaria</title>
+</head>
+<body>
+    <h1>Cirugía de Incontinencia Urinaria</h1>
+    <p>La cirugía para la incontinencia urinaria se realiza para corregir la pérdida involuntaria de orina, que puede afectar significativamente la calidad de vida del paciente.</p>
+
+    <h3>Método de Realización:</h3>
+    <ul>
+        <li><strong>Cirugía de Sling:</strong>
+            <ul>
+                <li><strong>Preparación:</strong> Se administra anestesia local o epidural.</li>
+                <li><strong>Procedimiento:</strong> Se coloca una cinta quirúrgica (TVT - Tension Free Vaginal Tape) debajo de la uretra para apoyarla y aumentar su capacidad para contener la orina.</li>
+                <li><strong>Resultados:</strong> Mejora en el control de la micción y reducción de episodios de incontinencia.</li>
+            </ul>
+        </li>
+        <li><strong>Cirugía de Esfínter:</strong>
+            <ul>
+                <li><strong>Preparación:</strong> Se administra anestesia general.</li>
+                <li><strong>Procedimiento:</strong> Se coloca un esfínter artificial para ayudar a cerrar la uretra y evitar el paso involuntario de la orina.</li>
+                <li><strong>Resultados:</strong> Mejora en el control de la micción.</li>
+            </ul>
+        </li>
+        <li><strong>Cirugía de Inyección:</strong>
+            <ul>
+                <li><strong>Preparación:</strong> Se administra anestesia local.</li>
+                <li><strong>Procedimiento:</strong> Se inyectan sustancias en la región del esfínter para fortalecerlo y mejorar su función.</li>
+                <li><strong>Resultados:</strong> Mejora en el control de la micción.</li>
+            </ul>
+        </li>
+    </ul>
+
+    <h3>Indicaciones:</h3>
+    <ul>
+        <li>Incontinencia urinaria por esfuerzo que no responde a tratamientos conservadores.</li>
+        <li>Incontinencia urinaria severa que afecta la calidad de vida.</li>
+        <li>Presencia de síntomas persistentes a pesar de la terapia física y ejercicios de Kegel.</li>
+    </ul>
+
+    <h3>Riesgos:</h3>
+    <ul>
+        <li><strong>Cirugía de Sling:</strong>
+            <ul>
+                <li>Infección.</li>
+                <li>Dolor pélvico.</li>
+                <li>Complicaciones relacionadas con el uso de mallas.</li>
+            </ul>
+        </li>
+        <li><strong>Cirugía de Esfínter:</strong>
+            <ul>
+                <li>Infección.</li>
+                <li>Dolor pélvico.</li>
+                <li>Disfunción sexual.</li>
+            </ul>
+        </li>
+        <li><strong>Cirugía de Inyección:</strong>
+            <ul>
+                <li>Infección.</li>
+                <li>Dolor en la zona tratada.</li>
+                <li>Reacciones adversas a las sustancias inyectadas.</li>
+            </ul>
+        </li>
+    </ul>
+
+    <h3>Resultados Anormales:</h3>
+    <ul>
+        <li>Persistencia o recurrencia de la incontinencia.</li>
+        <li>Complicaciones postoperatorias.</li>
+        <li>Dificultad para orinar.</li>
+    </ul>
+
+    <h3>Fuentes Utilizadas:</h3>
+    <ul>
+        <li>Mayo Clinic. (2023). <em>Cirugía de incontinencia urinaria</em>. Recuperado de <a href="https://www.mayoclinic.org/es/diseases-conditions/urinary-incontinence/in-depth/urinary-incontinence-surgery/art-20046858">https://www.mayoclinic.org/es/diseases-conditions/urinary-incontinencia/in-depth/urinary-incontinence-surgery/art-20046858</a></li>
+        <li>MedlinePlus. (2023). <em>Incontinencia urinaria</em>. Recuperado de <a href="https://medlineplus.gov/spanish/ency/article/001508.htm">https://medlineplus.gov/spanish/ency/article/001508.htm</a></li>
+        <li>Elsevier. (2023). <em>Inyección para incontinencia urinaria</em>. Recuper

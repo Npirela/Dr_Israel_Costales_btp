@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Atención a Pacientes Oncológicos con Cánceres Urológicos</title>
+</head>
+<body>
+    <h1>Atención a Pacientes Oncológicos con Cánceres Urológicos</h1>
+    <p>La atención a pacientes oncológicos con cánceres relacionados con la urología incluye el cáncer de próstata, vejiga y riñones. Este enfoque integral abarca desde el diagnóstico hasta el tratamiento y los cuidados paliativos, con el objetivo de mejorar la calidad de vida del paciente.</p>
+
+    <h3>Cáncer de Próstata</h3>
+    <h4>Método de Atención:</h4>
+    <ul>
+        <li><strong>Diagnóstico:</strong> Evaluación inicial mediante análisis de PSA, biopsias y estudios de imagen.</li>
+        <li><strong>Tratamiento:</strong> Administración de tratamientos específicos como cirugía, radioterapia, terapia hormonal y quimioterapia.</li>
+        <li><strong>Manejo de Síntomas:</strong> Control del dolor, manejo de efectos secundarios de la terapia hormonal.</li>
+        <li><strong>Cuidados Paliativos:</strong> Apoyo en etapas avanzadas para mejorar la calidad de vida.</li>
+    </ul>
+    <h4>Indicaciones:</h4>
+    <ul>
+        <li>Progresión del cáncer a pesar del tratamiento inicial.</li>
+        <li>Impacto significativo en la calidad de vida del paciente.</li>
+    </ul>
+
+    <h3>Cáncer de Vejiga</h3>
+    <h4>Método de Atención:</h4>
+    <ul>
+        <li><strong>Diagnóstico:</strong> Evaluación inicial mediante cistoscopia, análisis de orina y estudios de imagen.</li>
+        <li><strong>Tratamiento:</strong> Administración de tratamientos como cirugía, quimioterapia intravesical y radioterapia.</li>
+        <li><strong>Manejo de Síntomas:</strong> Control del dolor, manejo de síntomas urinarios.</li>
+        <li><strong>Cuidados Paliativos:</strong> Apoyo en etapas avanzadas para mejorar la calidad de vida.</li>
+    </ul>
+    <h4>Indicaciones:</h4>
+    <ul>
+        <li>Progresión del cáncer a pesar del tratamiento inicial.</li>
+        <li>Impacto significativo en la calidad de vida del paciente.</li>
+    </ul>
+
+    <h3>Cáncer de Riñones</h3>
+    <h4>Método de Atención:</h4>
+    <ul>
+        <li><strong>Diagnóstico:</strong> Evaluación inicial mediante estudios de imagen, análisis de sangre y biopsias.</li>
+        <li><strong>Tratamiento:</strong> Administración de tratamientos como cirugía, inmunoterapia y terapia dirigida.</li>
+        <li><strong>Manejo de Síntomas:</strong> Control del dolor, manejo de efectos secundarios de la terapia.</li>
+        <li><strong>Cuidados Paliativos:</strong> Apoyo en etapas avanzadas para mejorar la calidad de vida.</li>
+    </ul>
+    <h4>Indicaciones:</h4>
+    <ul>
+        <li>Progresión del cáncer a pesar del tratamiento inicial.</li>
+        <li>Impacto significativo en la calidad de vida del paciente.</li>
+    </ul>
+
+    <h3>Resultados Esperados:</h3>
+    <ul>
+        <li><strong>Mejora de la Calidad de Vida:</strong> Reducción del dolor y otros síntomas molestos.</li>
+        <li><strong>Mayor Conocimiento:</strong> Pacientes y familias mejor informados sobre la enfermedad y su tratamiento.</li>
+        <li><strong>Apoyo Continuo:</strong> Provisión de cuidados constantes y adaptados a las necesidades cambiantes del paciente.</li>
+    </ul>
+
+    <h3>Fuentes Utilizadas:</h3>
+    <ul>
+        <li>Mayo Clinic. (2023). <em>Cáncer de próstata</em>. Recuperado de <a href="https://www.mayoclinic.org/es-es/tests-procedures/prostate-cancer/about/pac-20385272">https://www.mayoclinic.org/es-es/tests-procedures/prostate-cancer/about/pac-20385272</a></li>
+        <li>Elsevier. (2023). <em>Cáncer de vejiga</em>. Recuperado de <a href="https://www.elsevier.es/es-es/cancer-de-vejiga">https://www.elsevier.es/es-es/cancer-de-vejiga</a></li>
+        <li>MedlinePlus. (2023). <em>Cáncer de riñón</em>. Recuperado de <a href="https://medlineplus.gov/spanish/kidneycancer.html">https://medlineplus.gov/spanish/kidneycancer.html</a></li>
+    </ul>
+</body>
+</html>

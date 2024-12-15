@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Circuncisión</title>
+</head>
+<body>
+    <h1>Circuncisión</h1>
+    <p>La circuncisión es un procedimiento quirúrgico que consiste en la extracción del prepucio, la piel que recubre la cabeza del pene. Es un procedimiento común realizado por motivos médicos, religiosos o culturales.</p>
+
+    <h3>Método de Realización:</h3>
+    <ul>
+        <li><strong>Preparación del paciente:</strong> En pacientes adultos y niños, se administra anestesia local o general dependiendo de la edad y preferencia.</li>
+        <li><strong>Procedimiento:</strong> 
+            <ul>
+                <li>El cirujano realiza una incisión circular alrededor del prepucio.</li>
+                <li>El prepucio se retira y la incisión se cierra con suturas disolubles.</li>
+            </ul>
+        </li>
+        <li><strong>Resultados:</strong> La recuperación completa suele llevar de una a dos semanas, con cuidados mínimos necesarios para evitar infecciones.</li>
+    </ul>
+
+    <h3>Indicaciones:</h3>
+    <ul>
+        <li>Motivos médicos como fimosis (prepucio estrecho), infecciones recurrentes o balanitis crónica.</li>
+        <li>Motivos religiosos y culturales en ciertas comunidades.</li>
+        <li>Preferencias personales o familiares por razones de higiene.</li>
+    </ul>
+
+    <h3>Riesgos:</h3>
+    <ul>
+        <li>Infección en el sitio de la cirugía.</li>
+        <li>Sangrado excesivo.</li>
+        <li>Dolor y molestias durante la recuperación.</li>
+        <li>Reacciones adversas a la anestesia.</li>
+    </ul>
+
+    <h3>Resultados Anormales:</h3>
+    <ul>
+        <li>Complicaciones raras como daño al glande o a la uretra.</li>
+        <li>Problemas de cicatrización o formación de queloides.</li>
+        <li>Infecciones recurrentes o problemas urinarios.</li>
+    </ul>
+
+    <h3>Fuentes Utilizadas:</h3>
+    <ul>
+        <li>Mayo Clinic. (2023). <em>Circuncisión</em>. Recuperado de <a href="https://www.mayoclinic.org/es-es/tests-procedures/circumcision/about/pac-20385129">https://www.mayoclinic.org/es-es/tests-procedures/circumcision/about/pac-20385129</a></li>
+        <li>MedlinePlus. (2023). <em>Circuncisión</em>. Recuperado de <a href="https://medlineplus.gov/spanish/circumcision.html">https://medlineplus.gov/spanish/circumcision.html</a></li>
+        <li>Elsevier. (2023). <em>Circuncisión</em>. Recuperado de <a href="https://www.elsevier.es/es-es/circumcision">https://www.elsevier.es/es-es/circumcision</a></li>
+    </ul>
+</body>
+</html>

@@ -1,0 +1,106 @@
+Entendido. Aquí tienes el resumen de los procedimientos de vasectomía, varicocelectomía, cirugía de quistes del epidídimo y cirugía de hidrocele, siguiendo el mismo formato que el ejemplo anterior.
+
+```html
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cirugías Urológicas</title>
+</head>
+<body>
+    <h1>Cirugías Urológicas</h1>
+    <p>Las cirugías urológicas como la vasectomía, varicocelectomía, cirugía de quistes del epidídimo y cirugía de hidrocele, son procedimientos realizados para tratar diversas afecciones del sistema reproductor masculino. A continuación, se presenta un resumen de cada una de estas cirugías.</p>
+
+    <h3>Método de Realización:</h3>
+    <ul>
+        <li><strong>Vasectomía:</strong>
+            <ul>
+                <li><strong>Preparación:</strong> El paciente puede recibir anestesia local.</li>
+                <li><strong>Procedimiento:</strong> Se realizan pequeñas incisiones en el escroto para cortar y ligar los conductos deferentes.</li>
+                <li><strong>Resultados:</strong> Método anticonceptivo permanente y eficaz.</li>
+            </ul>
+        </li>
+        <li><strong>Varicocelectomía:</strong>
+            <ul>
+                <li><strong>Preparación:</strong> El paciente puede recibir anestesia general o local.</li>
+                <li><strong>Procedimiento:</strong> Se ligan las venas varicosas para desviar el flujo sanguíneo hacia venas normales.</li>
+                <li><strong>Resultados:</strong> Alivio del dolor y mejora de la fertilidad.</li>
+            </ul>
+        </li>
+        <li><strong>Cirugía de Quistes del Epidídimo:</strong>
+            <ul>
+                <li><strong>Preparación:</strong> El paciente puede recibir anestesia local o general.</li>
+                <li><strong>Procedimiento:</strong> Se realiza una incisión en el escroto para extirpar el quiste.</li>
+                <li><strong>Resultados:</strong> Alivio del dolor y resolución de la masa palpable.</li>
+            </ul>
+        </li>
+        <li><strong>Cirugía de Hidrocele:</strong>
+            <ul>
+                <li><strong>Preparación:</strong> El paciente recibe anestesia local o general.</li>
+                <li><strong>Procedimiento:</strong> Se realiza una incisión para drenar el líquido acumulado en el escroto y, en algunos casos, remover el saco que lo contiene.</li>
+                <li><strong>Resultados:</strong> Reducción de la hinchazón y el malestar.</li>
+            </ul>
+        </li>
+    </ul>
+
+    <h3>Indicaciones:</h3>
+    <ul>
+        <li><strong>Vasectomía:</strong> Método anticonceptivo permanente.</li>
+        <li><strong>Varicocelectomía:</strong> Alivio del dolor testicular y mejora de la fertilidad.</li>
+        <li><strong>Cirugía de Quistes del Epidídimo:</strong> Eliminación de quistes que causan dolor o molestias.</li>
+        <li><strong>Cirugía de Hidrocele:</strong> Eliminación del líquido acumulado que causa hinchazón.</li>
+    </ul>
+
+    <h3>Riesgos:</h3>
+    <ul>
+        <li><strong>Vasectomía:</strong>
+            <ul>
+                <li>Infección.</li>
+                <li>Hematoma.</li>
+                <li>Dolor crónico en algunos casos.</li>
+            </ul>
+        </li>
+        <li><strong>Varicocelectomía:</strong>
+            <ul>
+                <li>Infección.</li>
+                <li>Hematoma.</li>
+                <li>Lesión de estructuras adyacentes.</li>
+            </ul>
+        </li>
+        <li><strong>Cirugía de Quistes del Epidídimo:</strong>
+            <ul>
+                <li>Infección.</li>
+                <li>Dolor postoperatorio.</li>
+                <li>Hematoma.</li>
+            </ul>
+        </li>
+        <li><strong>Cirugía de Hidrocele:</strong>
+            <ul>
+                <li>Infección.</li>
+                <li>Reacumulación de líquido.</li>
+                <li>Dolor postoperatorio.</li>
+            </ul>
+        </li>
+    </ul>
+
+    <h3>Resultados Anormales:</h3>
+    <ul>
+        <li><strong>Vasectomía:</strong> Persistencia de dolor o complicaciones de cicatrización.</li>
+        <li><strong>Varicocelectomía:</strong> Persistencia o recurrencia de varices.</li>
+        <li><strong>Cirugía de Quistes del Epidídimo:</strong> Infección o recurrencia de quistes.</li>
+        <li><strong>Cirugía de Hidrocele:</strong> Persistencia de hinchazón o infecciones recurrentes.</li>
+    </ul>
+
+    <h3>Fuentes Utilizadas:</h3>
+    <ul>
+        <li>Mayo Clinic. (2023). <em>Vasectomía</em>. Recuperado de <a href="https://www.mayoclinic.org/es-es/tests-procedures/vasectomy/about/pac-20384580">https://www.mayoclinic.org/es-es/tests-procedures/vasectomy/about/pac-20384580</a></li>
+        <li>MedlinePlus. (2023). <em>Varicocelectomía</em>. Recuperado de <a href="https://medlineplus.gov/spanish/ency/article/007384.htm">https://medlineplus.gov/spanish/ency/article/007384.htm</a></li>
+        <li>Elsevier. (2023). <em>Quiste del Epidídimo</em>. Recuperado de <a href="https://www.elsevier.com/es-es/quiste-del-epididimo">https://www.elsevier.com/es-es/quiste-del-epididimo</a></li>
+        <li>Mayo Clinic. (2023). <em>Hidrocele</em>. Recuperado de <a href="https://www.mayoclinic.org/es-es/tests-procedures/hydrocelectomy/about/pac-20384584">https://www.mayoclinic.org/es-es/tests-procedures/hydrocelectomy/about/pac-20384584</a></li>
+    </ul>
+</body>
+</html>
+```
+
+Espero que este formato sea útil para ti. ¿Hay algo más que te gustaría añadir o modificar?

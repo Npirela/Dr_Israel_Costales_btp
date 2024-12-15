@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cirugía de Próstata</title>
+</head>
+<body>
+    <h1>Cirugía de Próstata</h1>
+    <p>La cirugía de próstata se utiliza para tratar problemas urinarios severos causados por el agrandamiento benigno de la próstata (HBP). Existen tres tipos principales de cirugía: resección transuretral de próstata (RTU), cirugía con láser y cirugía abierta.</p>
+
+    <h3>Método de Realización:</h3>
+    <ul>
+        <li><strong>Resección Transuretral de Próstata (RTU):</strong>
+            <ul>
+                <li><strong>Preparación:</strong> El paciente puede recibir anestesia local o general.</li>
+                <li><strong>Procedimiento:</strong> Se inserta un resectoscopio a través de la uretra hasta la próstata. El tejido prostático se corta y se elimina.</li>
+                <li><strong>Resultados:</strong> Alivio de los síntomas urinarios, mejora del flujo de orina.</li>
+            </ul>
+        </li>
+        <li><strong>Cirugía de Próstata con Láser:</strong>
+            <ul>
+                <li><strong>Preparación:</strong> El paciente generalmente recibe anestesia general.</li>
+                <li><strong>Procedimiento:</strong> Se utiliza un láser a través de un cistoscopio para vaporizar o cortar el tejido prostático.</li>
+                <li><strong>Resultados:</strong> Menor tiempo de recuperación y menos sangrado comparado con la RTU.</li>
+            </ul>
+        </li>
+        <li><strong>Cirugía Abierta de Próstata:</strong>
+            <ul>
+                <li><strong>Preparación:</strong> Se administra anestesia general.</li>
+                <li><strong>Procedimiento:</strong> Se realiza una incisión en el abdomen o perineo para acceder y remover el tejido prostático.</li>
+                <li><strong>Resultados:</strong> Utilizado para próstatas muy grandes o cuando otros métodos no son adecuados.</li>
+            </ul>
+        </li>
+    </ul>
+
+    <h3>Indicaciones:</h3>
+    <ul>
+        <li>Tratamiento de síntomas urinarios severos causados por HBP.</li>
+        <li>Alternativa menos invasiva (cirugía con láser).</li>
+        <li>Necesidad de cirugía mayor en casos de próstata significativamente agrandada (cirugía abierta).</li>
+    </ul>
+
+    <h3>Riesgos:</h3>
+    <ul>
+        <li><strong>RTU:</strong>
+            <ul>
+                <li>Infección.</li>
+                <li>Sangrado.</li>
+                <li>Complicaciones urinarias temporales.</li>
+            </ul>
+        </li>
+        <li><strong>Cirugía con Láser:</strong>
+            <ul>
+                <li>Irritación de la vejiga.</li>
+                <li>Infección.</li>
+                <li>Problemas temporales de orina.</li>
+            </ul>
+        </li>
+        <li><strong>Cirugía Abierta:</strong>
+            <ul>
+                <li>Mayor tiempo de recuperación.</li>
+                <li>Riesgo de infección y sangrado.</li>
+                <li>Posibles complicaciones postoperatorias.</li>
+            </ul>
+        </li>
+    </ul>
+
+    <h3>Resultados Anormales:</h3>
+    <ul>
+        <li><strong>RTU:</strong> Dificultades persistentes con la micción.</li>
+        <li><strong>Cirugía con Láser:</strong> Problemas de vejiga o uretra.</li>
+        <li><strong>Cirugía Abierta:</strong> Complicaciones relacionadas con la cirugía mayor.</li>
+    </ul>
+
+    <h3>Fuentes Utilizadas:</h3>
+    <ul>
+        <li>Mayo Clinic. (2023). <em>Resección transuretral de la próstata</em>. Recuperado de <a href="https://www.mayoclinic.org/es/tests-procedures/turp/about/pac-20384880">https://www.mayoclinic.org/es/tests-procedures/turp/about/pac-20384880</a></li>
+        <li>SaludOnNet. (2023). <em>¿Qué es la resección transuretral (RTU) de próstata?</em> Recuperado de <a href="https://www.saludonnet.com/blog/que-es-la-reseccion-transuretral-rtu-de-prostata/">https://www.saludonnet.com/blog/que-es-la-reseccion-transuretral-rtu-de-prostata/</a></li>
+        <li>UMG Grupo Médico. (2023). <em>Todo sobre la resección transuretral de próstata (RTUP).</em> Recuperado de <a href="https://www.umgrupomedico.com/post/todo-sobre-la-resección-transuretral-de-próstata-rtup">https://www.umgrupomedico.com/post/todo-sobre-la-resección-transuretral-de-próstata-rtup</a></li>
+    </ul>
+</body>
+</html>

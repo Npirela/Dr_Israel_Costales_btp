@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Transplante Renal</title>
+</head>
+<body>
+    <h1>Transplante Renal</h1>
+    <p>El transplante renal es un procedimiento quirúrgico en el cual se coloca un riñón sano de un donante en un paciente con insuficiencia renal. Este tratamiento es una opción para pacientes con enfermedad renal en etapa terminal que requieren diálisis.</p>
+
+    <h3>Método de Realización:</h3>
+    <ul>
+        <li><strong>Preparación del paciente:</strong> El paciente pasa por una evaluación completa para asegurar que es apto para el trasplante. Esto incluye análisis de sangre, estudios de imagen y evaluaciones psicológicas.</li>
+        <li><strong>Procedimiento:</strong> 
+            <ul>
+                <li>El riñón del donante se obtiene de un donante vivo o fallecido.</li>
+                <li>Se realiza una incisión en la parte inferior del abdomen del receptor.</li>
+                <li>El riñón nuevo se conecta a los vasos sanguíneos y la vejiga del receptor.</li>
+                <li>Se cierra la incisión y se monitorea al paciente en una unidad de cuidados intensivos.</li>
+            </ul>
+        </li>
+        <li><strong>Resultados:</strong> Si tiene éxito, el nuevo riñón comenzará a funcionar y a producir orina inmediatamente, aunque algunos pacientes pueden necesitar diálisis temporal.</li>
+    </ul>
+
+    <h3>Indicaciones:</h3>
+    <ul>
+        <li>Insuficiencia renal crónica en etapa terminal.</li>
+        <li>Pacientes que no pueden tolerar la diálisis a largo plazo.</li>
+        <li>Mejorar la calidad de vida y la esperanza de vida.</li>
+    </ul>
+
+    <h3>Riesgos:</h3>
+    <ul>
+        <li>Rechazo del órgano trasplantado.</li>
+        <li>Infección.</li>
+        <li>Complicaciones quirúrgicas como sangrado o coágulos de sangre.</li>
+        <li>Reacciones adversas a los medicamentos inmunosupresores.</li>
+    </ul>
+
+    <h3>Resultados Anormales:</h3>
+    <ul>
+        <li>Rechazo agudo o crónico del riñón trasplantado.</li>
+        <li>Infecciones persistentes debido a la inmunosupresión.</li>
+        <li>Disfunción del riñón trasplantado.</li>
+    </ul>
+
+    <h3>Fuentes Utilizadas:</h3>
+    <ul>
+        <li>Mayo Clinic. (2023). <em>Transplante Renal</em>. Recuperado de <a href="https://www.mayoclinic.org/es-es/tests-procedures/kidney-transplant/about/pac-20384777">https://www.mayoclinic.org/es-es/tests-procedures/kidney-transplant/about/pac-20384777</a></li>
+        <li>MedlinePlus. (2023). <em>Transplante Renal</em>. Recuperado de <a href="https://medlineplus.gov/spanish/kidneytransplant.html">https://medlineplus.gov/spanish/kidneytransplant.html</a></li>
+        <li>Elsevier. (2023). <em>Transplante Renal</em>. Recuperado de <a href="https://www.elsevier.es/es-es/transplante-renal">https://www.elsevier.es/es-es/transplante-renal</a></li>
+    </ul>
+</body>
+</html>

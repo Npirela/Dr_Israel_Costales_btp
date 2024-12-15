@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ecografía de Riñones y Próstata</title>
+</head>
+<body>
+    <h1>Ecografía de Riñones y Próstata</h1>
+    <p>La ecografía de riñones y próstata se utiliza para evaluar la función renal, la vejiga y la próstata. Este procedimiento es no invasivo y utiliza ondas sonoras para crear imágenes de los órganos internos.</p>
+
+    <h3>Método de Realización:</h3>
+    <ul>
+        <li><strong>Preparación del paciente:</strong> El paciente debe beber 4-5 vasos de agua una hora antes del examen para llenar la vejiga.</li>
+        <li><strong>Posición del paciente:</strong> El paciente se coloca en decúbito supino (acostado boca arriba).</li>
+        <li><strong>Aplicación del transductor:</strong> Se utiliza una sonda convexa de baja frecuencia (3.5-5.5 MHz) colocada sobre el abdomen.</li>
+        <li><strong>Exploración:</strong> Se realizan cortes transversales y longitudinales para explorar todo el volumen del órgano.</li>
+    </ul>
+
+    <h3>Indicaciones:</h3>
+    <ul>
+        <li><strong>Evaluación de la función renal:</strong> Detectar masas renales o cálculos y medir el tamaño y crecimiento de los riñones.</li>
+        <li><strong>Evaluación de la vejiga:</strong> Medir el volumen y grosor de la pared vesical, y detectar cálculos o tumores.</li>
+        <li><strong>Evaluación de la próstata:</strong> Medir el tamaño de la próstata y detectar hipertrofia o alteraciones anatómicas.</li>
+    </ul>
+
+    <h3>Resultados Anormales:</h3>
+    <ul>
+        <li><strong>Riñones:</strong> Riñones poco ecogénicos pueden sugerir enfermedad del parénquima renal; sistema pielocalicial dilatado indica obstrucción.</li>
+        <li><strong>Vejiga:</strong> Grosor aumentado de la pared vesical puede indicar una vejiga de esfuerzo.</li>
+        <li><strong>Próstata:</strong> Tamaño prostático anormal puede indicar hipertrofia o alteraciones anatómicas.</li>
+    </ul>
+
+    <h3>Fuentes Utilizadas:</h3>
+    <ul>
+        <li>Mayo Clinic. (2023). <em>Ecografía de riñones y próstata</em>. Recuperado de <a href="https://www.mayoclinic.org/es-es/tests-procedures/kidney-ultrasound/about/pac-20385272">https://www.mayoclinic.org/es-es/tests-procedures/kidney-ultrasound/about/pac-20385272</a></li>
+        <li>Nefrología al Día. (2023). <em>Ecografía transabdominal de la vejiga y próstata</em>. Recuperado de <a href="https://www.nefrologiaaldia.org/es-articulo-ecografia-transabdominal-vejiga-prostata-333">https://www.nefrologiaaldia.org/es-articulo-ecografia-transabdominal-vejiga-prostata-333</a></li>
+        <li>Urologos Málaga. (2023). <em>Ecografía Urológica (Renal Vesical Prostática)</em>. Recuperado de <a href="https://www.urologosmalaga.com/diagnostico/ecografia-urologica-renal-vesical-prostatica/">https://www.urologosmalaga.com/diagnostico/ecografia-urologica-renal-vesical-prostatica/</a></li>
+    </ul>
+</body>
+</html>

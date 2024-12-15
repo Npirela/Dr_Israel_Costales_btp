@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cirugía de Prolapso de Órgano Pélvico (Descenso de Vejiga)</title>
+</head>
+<body>
+    <h1>Cirugía de Prolapso de Órgano Pélvico (Descenso de Vejiga)</h1>
+    <p>La cirugía de prolapso de órgano pélvico, también conocida como descenso de vejiga o cistocele, se realiza para corregir el desplazamiento de la vejiga hacia la vagina. Esta condición puede causar molestias, problemas urinarios y afectar la calidad de vida.</p>
+
+    <h3>Método de Realización:</h3>
+    <ul>
+        <li><strong>Cirugía Abdominal:</strong>
+            <ul>
+                <li><strong>Preparación:</strong> Se administra anestesia general.</li>
+                <li><strong>Procedimiento:</strong> Se realiza una incisión en el abdomen para acceder y reparar el suelo pélvico utilizando mallas o suturas.</li>
+                <li><strong>Resultados:</strong> Elevación y reposicionamiento de la vejiga, alivio de los síntomas.</li>
+            </ul>
+        </li>
+        <li><strong>Cirugía Vaginal:</strong>
+            <ul>
+                <li><strong>Preparación:</strong> Se administra anestesia general o regional.</li>
+                <li><strong>Procedimiento:</strong> Se realiza una incisión en la pared vaginal para acceder y reparar el suelo pélvico.</li>
+                <li><strong>Resultados:</strong> Mejora de la función y soporte de la vejiga.</li>
+            </ul>
+        </li>
+        <li><strong>Cirugía Laparoscópica:</strong>
+            <ul>
+                <li><strong>Preparación:</strong> Se administra anestesia general.</li>
+                <li><strong>Procedimiento:</strong> Se realizan pequeñas incisiones en el abdomen para insertar un laparoscopio y los instrumentos quirúrgicos. Se utiliza mallas o suturas para reparar el suelo pélvico.</li>
+                <li><strong>Resultados:</strong> Menor tiempo de recuperación y menor dolor postoperatorio comparado con la cirugía abierta.</li>
+            </ul>
+        </li>
+    </ul>
+
+    <h3>Indicaciones:</h3>
+    <ul>
+        <li>Prolapso significativo que afecta la calidad de vida.</li>
+        <li>Persistencia de síntomas urinarios a pesar del tratamiento conservador.</li>
+        <li>Impacto negativo en las actividades cotidianas y la salud general.</li>
+    </ul>
+
+    <h3>Riesgos:</h3>
+    <ul>
+        <li><strong>Cirugía Abdominal:</strong>
+            <ul>
+                <li>Infección.</li>
+                <li>Sangrado.</li>
+                <li>Lesión a órganos adyacentes.</li>
+            </ul>
+        </li>
+        <li><strong>Cirugía Vaginal:</strong>
+            <ul>
+                <li>Infección.</li>
+                <li>Sangrado.</li>
+                <li>Disfunción sexual.</li>
+            </ul>
+        </li>
+        <li><strong>Cirugía Laparoscópica:</strong>
+            <ul>
+                <li>Infección.</li>
+                <li>Sangrado.</li>
+                <li>Complicaciones relacionadas con el uso de mallas.</li>
+            </ul>
+        </li>
+    </ul>
+
+    <h3>Resultados Anormales:</h3>
+    <ul>
+        <li>Persistencia o recurrencia del prolapso.</li>
+        <li>Complicaciones relacionadas con el uso de mallas.</li>
+        <li>Dolor pélvico o disfunción urinaria persistente.</li>
+    </ul>
+
+    <h3>Fuentes Utilizadas:</h3>
+    <ul>
+        <li>Mayo Clinic. (2023). <em>Cirugía de prolapso de órganos pélvicos</em>. Recuperado de <a href="https://www.mayoclinic.org/es-es/tests-procedures/pelvic-organ-prolapse-surgery/about/pac-20385272">https://www.mayoclinic.org/es-es/tests-procedures/pelvic-organ-prolapse-surgery/about/pac-20385272</a></li>
+        <li>Elsevier. (2023). <em>Prolapso de órgano pélvico</em>. Recuperado de <a href="https://www.elsevier.es/es-es/prolapso-organo-pelvico">https://www.elsevier.es/es-es/prolapso-organo-pelvico</a></li>
+        <li>MedlinePlus. (2023). <em>Prolapso de órganos pélvicos</em>. Recuperado de <a href="https://medlineplus.gov/spanish/ency/article/001508.htm">https://medlineplus.gov/spanish/ency/article/001508.htm</a></li>
+    </ul>
+</body>
+</html>
