@@ -523,6 +523,92 @@ h6,
 }
 
 
+/*** Testimonios post ***/
+.testimonial-item-post {
+    position: relative;
+    text-align: center;
+    padding-top: 30px;
+}
+
+.testimonial-item-post .testimonial-text {
+    position: relative;
+    text-align: center;
+}
+
+.testimonial-item-post .testimonial-text .btn-square {
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    top: -30px;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.testimonial-item-post .testimonial-text::before {
+    position: absolute;
+    content: "";
+    bottom: -60px;
+    left: 50%;
+    transform: translateX(-50%);
+    border: 30px solid;
+    border-color: var(--light) transparent transparent transparent;
+}
+
+.testimonial-item-post .testimonial-text::after {
+    position: absolute;
+    content: "";
+    bottom: -59px;
+    left: 50%;
+    transform: translateX(-50%);
+    border: 30px solid;
+    border-color: #FFFFFF transparent transparent transparent;
+}
+
+.testimonial-post-carousel .owl-item img {
+    margin: 0 auto;
+    width: 100px;
+    height: 100px;
+}
+
+.testimonial-post-carousel .owl-dots {
+    margin-top: 25px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+}
+
+.testimonial-post-carousel .owl-dot {
+    position: relative;
+    display: inline-block;
+    margin: 0 5px;
+    width: 30px;
+    height: 30px;
+    border: 1px solid var(--light);
+    border-radius: 30px;
+    transition: .5s;
+}
+
+.testimonial-post-carousel .owl-dot::after {
+    position: absolute;
+    content: "";
+    width: 16px;
+    height: 16px;
+    top: 6px;
+    left: 6px;
+    border-radius: 16px;
+    background: var(--light);
+    transition: .5s;
+}
+
+.testimonial-post-carousel .owl-dot.active {
+    border-color: var(--primary);
+}
+
+.testimonial-post-carousel .owl-dot.active::after {
+    background: var(--primary);
+}
+
+
 /*** Footer ***/
 .footer .btn.btn-link {
     display: block;
