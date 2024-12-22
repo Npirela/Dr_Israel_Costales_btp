@@ -21,6 +21,11 @@
     src: url('../fonts/Minion-Variable-Concept.otf');
   }
   
+.img-logo-ic{
+    object-fit: fill;
+    width: 53px;
+    height: 40px;
+}
 .back-to-top {
     position: fixed;
     display: none;
