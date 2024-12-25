@@ -25,7 +25,7 @@ function sendToWhatsapp() {
     // Validación del número de teléfono (debe comenzar con "+" seguido de números)
     let phonePattern = /^\+(\d{1,3})\d{7,14}$/; // Acepta códigos de país como +34, +1, etc.
     if (!mobile || !phonePattern.test(mobile)) {
-        showError('mobile', 'Por favor, ingrese un número de teléfono válido con el código de país (ejemplo: +34XXXXXXXX).');
+        showError('mobile', 'Por favor, ingrese un número de teléfono válido con el código de país (ejemplo codigo Ecuador: +593XXXXXXXX).');
         return;
     }
 
