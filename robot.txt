@@ -10,9 +10,12 @@ Allow: /articles.html/
 Allow: /about.html/
 Allow: /contact.html/
 Allow: /service.html/
-
+Allow: /feature.html/
+Allow: /interviews.html/
+Allow: /project.html/
+Allow: /terms_conditions.html/
 # Sitemap location
-Sitemap: https://www.tusitio.com/sitemap.xml
+Sitemap: https://www.israelcostales.com/sitemap.xml
 
 #Explicación:
 #User-agent: *: Aplica estas reglas a todos los motores de búsqueda.
