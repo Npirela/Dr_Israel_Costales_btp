@@ -1,6 +1,7 @@
 {
-  "name": "Med. Costales",
-  "short_name": "Med. Costales",
+  "name": "Dr. Israel Costales",
+  "short_name": "Dr Israel Costales",
+  "description": "Página oficial de Dr. Israel Costales, especialista en Urologia. Encuentra información sobre tratamientos, consultas y más.",
   "icons": [
     {
       "src": "/favicon/web-app-manifest-192x192.png",
