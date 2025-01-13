@@ -673,3 +673,8 @@ h6,
 .primary-color{
     color: var(--primary) !important;
 }
+
+.primary-color-bg{
+    background-color: var(--primary) !important;
+    
+}
