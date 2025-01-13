@@ -249,7 +249,7 @@ h6,
 
 /*** Facts ***/
 .facts {
-    background: linear-gradient(rgba(28, 166, 209, 0.95), rgba(230, 230, 230, .95)), url(../img/bg.webp);
+    background: linear-gradient(rgba(8, 74, 153, 0.95), rgba(28, 166, 209, .95)), url(../img/bg.webp);
 }
 
 
@@ -265,7 +265,7 @@ h6,
     height: 50%;
     top: 0;
     left: 0;
-    background: linear-gradient(rgba(28, 166, 209, 0.95), rgba(230, 230, 230, .95)), url(../img/bg.webp);
+    background: linear-gradient(rgba(8, 74, 153, 0.95), rgba(28, 166, 209, .95)), url(../img/bg.webp);
     z-index: -1;
 }
 
