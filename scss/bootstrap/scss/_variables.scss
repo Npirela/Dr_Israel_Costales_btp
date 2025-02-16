@@ -274,7 +274,12 @@ $position-values: (
 
 // Body
 //
-// Settings for the `<body>` element.
+// Settings for the `<body>
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TB9X85P9"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->` element.
 
 $body-bg:                   $white !default;
 $body-color:                $gray-900 !default;
