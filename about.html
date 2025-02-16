@@ -11,6 +11,10 @@
 
   gtag('config', 'AW-11541556939');
 </script>
+
+<!-- Event snippet for Submit lead form conversion page In your html page, add the snippet and call gtag_report_conversion when someone clicks on the chosen link or button. --> <script> function gtag_report_conversion(url) { var callback = function () { if (typeof(url) != 'undefined') { window.location = url; } }; gtag('event', 'conversion', { 'send_to': 'AW-11541556939/0IHkCJqB65YaEMvduP8q', 'event_callback': callback }); return false; } </script>
+<!-- End Event snippet for Submit lead form conversion page In your html page, add the snippet and call gtag_report_conversion when someone clicks on the chosen link or button. -->
+
     
 <!-- Google Tag Manager -->
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
@@ -388,8 +392,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
     <!-- Back to Top -->
     <a href="#" aria-label="Boton para llevar la pagina al inicio de la misma" class="btn btn-lg btn-dark btn-lg-square rounded-circle back-to-top"><i class="bi bi-arrow-up"></i></a>
-    <a href="https://api.whatsapp.com/send?phone=593993686522" aria-label="Boton para llevar enviar mensje de whatsapp" target="_blank" class="btn btn-lg btn-dark btn-lg-square rounded-circle whatsapp-top-button"><i
-        class="bi bi-whatsapp"></i></a>
+    <a onclick="return gtag_report_conversion('https://www.israelcostales.com');" href="https://api.whatsapp.com/send?phone=593993686522" aria-label="Boton para llevar enviar mensje de whatsapp" target="_blank" class="btn btn-lg btn-dark btn-lg-square rounded-circle whatsapp-top-button"><i class="bi bi-whatsapp"></i></a>
 
 
     <!-- JavaScript Libraries -->

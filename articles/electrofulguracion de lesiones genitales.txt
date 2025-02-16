@@ -10,6 +10,10 @@
 
   gtag('config', 'AW-11541556939');
 </script>
+
+<!-- Event snippet for Submit lead form conversion page In your html page, add the snippet and call gtag_report_conversion when someone clicks on the chosen link or button. --> <script> function gtag_report_conversion(url) { var callback = function () { if (typeof(url) != 'undefined') { window.location = url; } }; gtag('event', 'conversion', { 'send_to': 'AW-11541556939/0IHkCJqB65YaEMvduP8q', 'event_callback': callback }); return false; } </script>
+<!-- End Event snippet for Submit lead form conversion page In your html page, add the snippet and call gtag_report_conversion when someone clicks on the chosen link or button. -->
+
     
 <!-- Google Tag Manager -->
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
